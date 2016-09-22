@@ -10,7 +10,6 @@ var config = {
 var database = firebase.database();
 
 
-
 var trainName = "";
 var destination = "";
 var startTime = "";
